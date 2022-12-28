@@ -1,0 +1,22 @@
+.jumbotron {
+  padding-top: 4rem;
+  background-color: #f8bbc1;
+}
+
+#about {
+  padding-top: 5rem;
+}
+
+#gallery {
+  padding-top: 8rem;
+  background-color: #f8bbc1;
+}
+
+#contact {
+  padding-top: 5rem;
+}
+.footer {
+  margin-top: 20px;
+  color: #ffffff;
+  background-color: #800000;
+}
